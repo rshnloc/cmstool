@@ -54,3 +54,15 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+
+# Exclude Agent, Skill, and Workflow Files
+AGENTS.md
+agents.md
+.agents/
+skills/
+.skills/
+workflows/
+.workflows/
+.github/workflows/
+
+
